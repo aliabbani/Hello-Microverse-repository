@@ -1,34 +1,29 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello-Microverse-repository
+Project 2: Building with Responsive Design.
+ 
+This Project is the first project in the first module 
 
-# Project Name
-
-> Hello Microverse first project.
-
-
-Additional description about the project and its features.
-
+ 
+![](images/screenshot.png)
+ 
+ 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
+- HTML
+- CSS
+- Coffee
+ 
 ## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-
-To get a local copy up and running follow these simple example steps.
+[Live Demo Link] (https://musing-nobel-465502.netlify.app)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@aliabbani](https://github.com/aliabbani)
-- Twitter: [@aliabbani](https://twitter.com/aliabbani)
-- LinkedIn: [Ali Abbani](https://linkedin.com/in/aliabbani)
+- Name: Ali Abbani
+- GitHub: [@githubhandle](https://github.com/aliabbani)
+- Twitter: [@twitterhandle](https://twitter.com/aliabbani)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-abbani-8b6246150/)
 
 
 ## 🤝 Contributing
