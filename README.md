@@ -4,18 +4,11 @@ Project 2: Building with Responsive Design.
 This Project is the first project in the first module 
 
  
-![](images/screenshot.png)
- 
- 
 ## Built With
 - HTML
 - CSS
 - Coffee
  
-## Live Demo
-[Live Demo Link] (https://musing-nobel-465502.netlify.app)
-
-
 ## Authors
 
 👤 **Author**
