@@ -1,5 +1,5 @@
 # Hello-Microverse-repository
-Project 2: Building with Responsive Design.
+Project 1: Set up a "Hello Microverse" project.
  
 This Project is the first project in the first module 
 
